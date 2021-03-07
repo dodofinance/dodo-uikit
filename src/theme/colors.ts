@@ -23,7 +23,7 @@ export const lightColors: Colors = {
   invertedContrast: "#FFFFFF",
   input: "#eeeaf4",
   tertiary: "#EFF4F5",
-  text: "#452A7A",
+  text: "#1e2e56",
   textDisabled: "#BDC2C4",
   textSubtle: "#1E2F56",
   borderColor: "#E9EAEB",
