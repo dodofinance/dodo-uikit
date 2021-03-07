@@ -36,15 +36,15 @@ export const lightColors: Colors = {
 export const darkColors: Colors = {
   ...baseColors,
   ...brandColors,
-  secondary: "#DBE6FF", // focus
+  secondary: "#4c5058", // focus
   background: "#343135",
   backgroundDisabled: "#3c3742",
   contrast: "#FFFFFF",
   invertedContrast: "#191326",
-  input: "#DBE6FF", // dark input 
+  input: "#4c5058", // dark input 
   primaryDark: "#0098A1",
   tertiary: "#353547",
-  text: "#EAE2FC",
+  text: "#EAE2FC", // input text
   textDisabled: "#666171",
   textSubtle: "#c9c4d4",
   borderColor: "#524B63",
